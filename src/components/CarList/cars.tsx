@@ -32,7 +32,7 @@ export default [
     {
         name:'Solar Panels',
         image:require('../../Assets/images/SolarPanels.jpeg'),
-        subTitles:'Produce Clean Energy From Your Roof',
+        subTitles:'Lowest Cost Solar Panels in America',
         subTitleCTA:'',
     },
 
